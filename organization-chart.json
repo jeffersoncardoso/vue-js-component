@@ -1,0 +1,53 @@
+[
+	{
+		"id" : 1,
+		"name" : "Secretaria da Fazenda",
+		"childrens" : [
+			{
+				"id" : 2,
+				"name" : "Diretoria da Fazenda",
+				"childrens" : [
+					{
+						"id" : 3,
+						"name" : "Unidade da Fazenda",
+						"childrens" : [
+							{
+								"id" : 4,
+								"name" : "Time da Fazenda",
+								"childrens" : [
+
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id" : 5,
+		"name" : "Secretaria da Educação",
+		"childrens" : [
+			{
+				"id" : 6,
+				"name" : "Diretoria da Educação",
+				"childrens" : [
+					{
+						"id" : 7,
+						"name" : "Unidade da Educação",
+						"childrens" : [
+							{
+								"id" : 8,
+								"name" : "Time da Educação",
+								"type" : "E",
+								"childrens" : [
+
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
